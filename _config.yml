@@ -1,2 +1,4 @@
 name: Winnie Liang, CS graduate
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
