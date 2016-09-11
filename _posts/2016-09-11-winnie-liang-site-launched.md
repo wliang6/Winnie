@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winnie Liang, Software Development, Launches Site using Jekyll"
+title: "Winnie Liang, Software Developer, Launches Site using Jekyll"
 date: 2016-09-11
 ---
 
